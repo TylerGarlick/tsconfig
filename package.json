@@ -23,6 +23,6 @@
     "configuration"
   ],
   "scripts": {
-    "publish": ""
+    "publish": "npm publish"
   }
 }
