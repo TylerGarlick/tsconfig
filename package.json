@@ -1,0 +1,28 @@
+{
+  "name": "@tylergarlick/tsconfig",
+  "version": "0.0.1",
+  "main": "tsconfig.json",
+  "repository": "tylergarlick/tsconfig",
+  "author": {
+    "email": "tjgarlick@gmail.com",
+    "name": "Tyler Garlick",
+    "url": "tylergarlick.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "scripts": {
+    "publish": ""
+  }
+}
