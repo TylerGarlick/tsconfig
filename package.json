@@ -1,6 +1,6 @@
 {
   "name": "@tylergarlick/tsconfig",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "tsconfig.json",
   "repository": "tylergarlick/tsconfig",
   "author": {
