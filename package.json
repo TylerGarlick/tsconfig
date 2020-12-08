@@ -1,6 +1,6 @@
 {
   "name": "@tylergarlick/tsconfig",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "main": "tsconfig.json",
   "repository": "tylergarlick/tsconfig",
   "author": {
@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=8"
+    "node": ">=10"
   },
   "files": [
     "tsconfig.json"
